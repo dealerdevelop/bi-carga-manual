@@ -1,0 +1,5078 @@
+[
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 919,
+    "descBanco": "LINX - VISA - 7 A 12X",
+    "agencia": 919,
+    "conta": 919
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 920,
+    "descBanco": "LINX - HIPERCARD - 7 A 12X",
+    "agencia": 920,
+    "conta": 920
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 921,
+    "descBanco": "LINX - ELO DEBITO",
+    "agencia": 921,
+    "conta": 921
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 922,
+    "descBanco": "LINX - ELO CREDITO",
+    "agencia": 922,
+    "conta": 922
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 923,
+    "descBanco": "LINX - ELO - 2 A 6X",
+    "agencia": 923,
+    "conta": 923
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 924,
+    "descBanco": "LINX - ELO - 7 A 12X",
+    "agencia": 924,
+    "conta": 924
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 925,
+    "descBanco": "LINX - DINERS CREDITO",
+    "agencia": 925,
+    "conta": 925
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 926,
+    "descBanco": "LINX - DINERS - 2 A 6X",
+    "agencia": 926,
+    "conta": 926
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 927,
+    "descBanco": "LINX - DINERS - 7 A 12X",
+    "agencia": 927,
+    "conta": 927
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 928,
+    "descBanco": "LINX - AMEX CREDITO",
+    "agencia": 928,
+    "conta": 928
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 929,
+    "descBanco": "LINX - AMEX - 2 A 6X",
+    "agencia": 929,
+    "conta": 929
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 930,
+    "descBanco": "LINX - AMEX - 7 A 12X",
+    "agencia": 930,
+    "conta": 930
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 931,
+    "descBanco": "CIELO - MASTER DEBITO",
+    "agencia": 931,
+    "conta": 931
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 932,
+    "descBanco": "CIELO - MASTER CREDITO",
+    "agencia": 932,
+    "conta": 932
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 933,
+    "descBanco": "CIELO - MASTER - 2 A 6X",
+    "agencia": 933,
+    "conta": 933
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 934,
+    "descBanco": "CIELO - MASTER - 7 A 12X",
+    "agencia": 934,
+    "conta": 934
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 935,
+    "descBanco": "CIELO - VISA DEBITO",
+    "agencia": 935,
+    "conta": 935
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 936,
+    "descBanco": "CIELO - VISA CREDITO",
+    "agencia": 936,
+    "conta": 936
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 937,
+    "descBanco": "CIELO - VISA - 2 A 6X",
+    "agencia": 937,
+    "conta": 937
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 938,
+    "descBanco": "CIELO - VISA - 7 A 12X",
+    "agencia": 938,
+    "conta": 938
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 939,
+    "descBanco": "CIELO - ELO DEBITO",
+    "agencia": 939,
+    "conta": 939
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 940,
+    "descBanco": "CIELO - ELO CREDITO",
+    "agencia": 940,
+    "conta": 940
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 941,
+    "descBanco": "CIELO - ELO - 2 A 6X",
+    "agencia": 941,
+    "conta": 941
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 942,
+    "descBanco": "CIELO - ELO - 7 A 12X",
+    "agencia": 942,
+    "conta": 942
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 943,
+    "descBanco": "CIELO - DINERS CREDITO",
+    "agencia": 943,
+    "conta": 943
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 944,
+    "descBanco": "CIELO - DINERS - 2 A 6X",
+    "agencia": 944,
+    "conta": 944
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 945,
+    "descBanco": "CIELO - DINERS - 7 A 12X",
+    "agencia": 945,
+    "conta": 945
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 946,
+    "descBanco": "CIELO - AMEX CREDITO",
+    "agencia": 946,
+    "conta": 946
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 947,
+    "descBanco": "CIELO - AMEX - 2 A 6X",
+    "agencia": 947,
+    "conta": 947
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 948,
+    "descBanco": "CIELO - AMEX - 7 A 12X",
+    "agencia": 948,
+    "conta": 948
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 949,
+    "descBanco": "CIELO - CREDSYSTEM CREDITO",
+    "agencia": 949,
+    "conta": 949
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 950,
+    "descBanco": "CIELO - CREDSYSTEM - 2 A 6X",
+    "agencia": 950,
+    "conta": 950
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 951,
+    "descBanco": "CIELO - CREDSYSTEM - 7 A 12X",
+    "agencia": 951,
+    "conta": 951
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 952,
+    "descBanco": "CIELO - HIPERCARD CREDITO",
+    "agencia": 952,
+    "conta": 952
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 953,
+    "descBanco": "CIELO - HIPERCARD - 2 A 6X",
+    "agencia": 953,
+    "conta": 953
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 954,
+    "descBanco": "CIELO - HIPERCARD - 7 A 12X",
+    "agencia": 954,
+    "conta": 954
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 101,
+    "descBanco": "BANCO ITAU C/C 04360-9",
+    "agencia": 641,
+    "conta": 4360
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 102,
+    "descBanco": "BANCO ITAU C/C 09534-4",
+    "agencia": 641,
+    "conta": 9534
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 103,
+    "descBanco": "BANCO ITAU C/C 01597-1",
+    "agencia": 8576,
+    "conta": 1597
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 101,
+    "descBanco": "BANCO ITAU C/C 04360-9",
+    "agencia": 641,
+    "conta": 4360
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 102,
+    "descBanco": "BANCO ITAU C/C 09534-4",
+    "agencia": 641,
+    "conta": 9534
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 103,
+    "descBanco": "BANCO ITAU C/C 01597-1",
+    "agencia": 8576,
+    "conta": 1597
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 104,
+    "descBanco": "*BRADESCO 130003-2 (COBRANÃA)",
+    "agencia": 3380,
+    "conta": 130003
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 105,
+    "descBanco": "*BRADESCO C/C 021-3",
+    "agencia": 3380,
+    "conta": 21
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 106,
+    "descBanco": "BRADESCO C/C 90052-4",
+    "agencia": 3380,
+    "conta": 90052
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 107,
+    "descBanco": "BANCO SANTANDER C/C 130000402",
+    "agencia": 4644,
+    "conta": 130000402
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 111,
+    "descBanco": "APL ITAU C/C 04360-9",
+    "agencia": 641,
+    "conta": 4360
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 112,
+    "descBanco": "APL ITAU C/C 01597-1",
+    "agencia": 8576,
+    "conta": 1597
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 113,
+    "descBanco": "APL BRADESCO C/C 021-3",
+    "agencia": 3380,
+    "conta": 21
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 114,
+    "descBanco": "APL BRADESCO C/C 130003-2",
+    "agencia": 3380,
+    "conta": 130003
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 115,
+    "descBanco": "APL SANTANDER C/C 13000402-4",
+    "agencia": 4644,
+    "conta": 13000402
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 200,
+    "descBanco": "ENCONTRO DE CONTAS",
+    "agencia": 200,
+    "conta": 200
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 800,
+    "descBanco": "CONTA CORRENTE VW DN - 0473",
+    "agencia": 800,
+    "conta": 800
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 900,
+    "descBanco": "BANCO CARTEIRA",
+    "agencia": 900,
+    "conta": 900
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 910,
+    "descBanco": "LINX - MASTER DEBITO",
+    "agencia": 910,
+    "conta": 910
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 911,
+    "descBanco": "LINX - VISA DEBITO",
+    "agencia": 911,
+    "conta": 911
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 912,
+    "descBanco": "LINX - MASTER CREDITO",
+    "agencia": 912,
+    "conta": 912
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 913,
+    "descBanco": "LINX - VISA CREDITO",
+    "agencia": 913,
+    "conta": 913
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 914,
+    "descBanco": "LINX - HIPERCARD CREDITO",
+    "agencia": 914,
+    "conta": 914
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 915,
+    "descBanco": "LINX - MASTER - 2 A 6X",
+    "agencia": 915,
+    "conta": 915
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 916,
+    "descBanco": "LINX - VISA - 2 A 6X",
+    "agencia": 916,
+    "conta": 916
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 917,
+    "descBanco": "LINX - HIPERCARD - 2 A 6X",
+    "agencia": 917,
+    "conta": 917
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 918,
+    "descBanco": "LINX - MASTER - 7 A 12X",
+    "agencia": 918,
+    "conta": 918
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 919,
+    "descBanco": "LINX - VISA - 7 A 12X",
+    "agencia": 919,
+    "conta": 919
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 920,
+    "descBanco": "LINX - HIPERCARD - 7 A 12X",
+    "agencia": 920,
+    "conta": 920
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 921,
+    "descBanco": "LINX - ELO DEBITO",
+    "agencia": 921,
+    "conta": 921
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 922,
+    "descBanco": "LINX - ELO CREDITO",
+    "agencia": 922,
+    "conta": 922
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 923,
+    "descBanco": "LINX - ELO - 2 A 6X",
+    "agencia": 923,
+    "conta": 923
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 924,
+    "descBanco": "LINX - ELO - 7 A 12X",
+    "agencia": 924,
+    "conta": 924
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 925,
+    "descBanco": "LINX - DINERS CREDITO",
+    "agencia": 925,
+    "conta": 925
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 926,
+    "descBanco": "LINX - DINERS - 2 A 6X",
+    "agencia": 926,
+    "conta": 926
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 927,
+    "descBanco": "LINX - DINERS - 7 A 12X",
+    "agencia": 927,
+    "conta": 927
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 928,
+    "descBanco": "LINX - AMEX CREDITO",
+    "agencia": 928,
+    "conta": 928
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 929,
+    "descBanco": "LINX - AMEX - 2 A 6X",
+    "agencia": 929,
+    "conta": 929
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 930,
+    "descBanco": "LINX - AMEX - 7 A 12X",
+    "agencia": 930,
+    "conta": 930
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 931,
+    "descBanco": "CIELO - MASTER DEBITO",
+    "agencia": 931,
+    "conta": 931
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 932,
+    "descBanco": "CIELO - MASTER CREDITO",
+    "agencia": 932,
+    "conta": 932
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 933,
+    "descBanco": "CIELO - MASTER - 2 A 6X",
+    "agencia": 933,
+    "conta": 933
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 934,
+    "descBanco": "CIELO - MASTER - 7 A 12X",
+    "agencia": 934,
+    "conta": 934
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 935,
+    "descBanco": "CIELO - VISA DEBITO",
+    "agencia": 935,
+    "conta": 935
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 936,
+    "descBanco": "CIELO - VISA CREDITO",
+    "agencia": 936,
+    "conta": 936
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 937,
+    "descBanco": "CIELO - VISA - 2 A 6X",
+    "agencia": 937,
+    "conta": 937
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 938,
+    "descBanco": "CIELO - VISA - 7 A 12X",
+    "agencia": 938,
+    "conta": 938
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 939,
+    "descBanco": "CIELO - ELO DEBITO",
+    "agencia": 939,
+    "conta": 939
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 940,
+    "descBanco": "CIELO - ELO CREDITO",
+    "agencia": 940,
+    "conta": 940
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 941,
+    "descBanco": "CIELO - ELO - 2 A 6X",
+    "agencia": 941,
+    "conta": 941
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 942,
+    "descBanco": "CIELO - ELO - 7 A 12X",
+    "agencia": 942,
+    "conta": 942
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 943,
+    "descBanco": "CIELO - DINERS CREDITO",
+    "agencia": 943,
+    "conta": 943
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 944,
+    "descBanco": "CIELO - DINERS - 2 A 6X",
+    "agencia": 944,
+    "conta": 944
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 945,
+    "descBanco": "CIELO - DINERS - 7 A 12X",
+    "agencia": 945,
+    "conta": 945
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 946,
+    "descBanco": "CIELO - AMEX CREDITO",
+    "agencia": 946,
+    "conta": 946
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 947,
+    "descBanco": "CIELO - AMEX - 2 A 6X",
+    "agencia": 947,
+    "conta": 947
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 948,
+    "descBanco": "CIELO - AMEX - 7 A 12X",
+    "agencia": 948,
+    "conta": 948
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 949,
+    "descBanco": "CIELO - CREDSYSTEM CREDITO",
+    "agencia": 949,
+    "conta": 949
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 950,
+    "descBanco": "CIELO - CREDSYSTEM - 2 A 6X",
+    "agencia": 950,
+    "conta": 950
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 951,
+    "descBanco": "CIELO - CREDSYSTEM - 7 A 12X",
+    "agencia": 951,
+    "conta": 951
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 952,
+    "descBanco": "CIELO - HIPERCARD CREDITO",
+    "agencia": 952,
+    "conta": 952
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 953,
+    "descBanco": "CIELO - HIPERCARD - 2 A 6X",
+    "agencia": 953,
+    "conta": 953
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 954,
+    "descBanco": "CIELO - HIPERCARD - 7 A 12X",
+    "agencia": 954,
+    "conta": 954
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 101,
+    "descBanco": "BANCO ITAU C/C 04360-9",
+    "agencia": 641,
+    "conta": 4360
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 102,
+    "descBanco": "BANCO ITAU C/C 09534-4",
+    "agencia": 641,
+    "conta": 9534
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 103,
+    "descBanco": "BANCO ITAU C/C 01597-1",
+    "agencia": 8576,
+    "conta": 1597
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 104,
+    "descBanco": "*BRADESCO 130003-2 (COBRANÃA)",
+    "agencia": 3380,
+    "conta": 130003
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 105,
+    "descBanco": "*BRADESCO C/C 021-3",
+    "agencia": 3380,
+    "conta": 21
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 106,
+    "descBanco": "BRADESCO C/C 90052-4",
+    "agencia": 3380,
+    "conta": 90052
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 200,
+    "descBanco": "ENCONTRO DE CONTAS",
+    "agencia": 200,
+    "conta": 200
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 800,
+    "descBanco": "MONTADORA VOLKS",
+    "agencia": 800,
+    "conta": 800
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 900,
+    "descBanco": "BANCO CARTEIRA",
+    "agencia": 900,
+    "conta": 900
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 910,
+    "descBanco": "LINX - MASTER DEBITO",
+    "agencia": 910,
+    "conta": 910
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 911,
+    "descBanco": "LINX - VISA DEBITO",
+    "agencia": 911,
+    "conta": 911
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 912,
+    "descBanco": "LINX - MASTER CREDITO",
+    "agencia": 912,
+    "conta": 912
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 913,
+    "descBanco": "LINX - VISA CREDITO",
+    "agencia": 913,
+    "conta": 913
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 914,
+    "descBanco": "LINX - HIPERCARD CREDITO",
+    "agencia": 914,
+    "conta": 914
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 915,
+    "descBanco": "LINX - MASTER - 2 A 6X",
+    "agencia": 915,
+    "conta": 915
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 916,
+    "descBanco": "LINX - VISA - 2 A 6X",
+    "agencia": 916,
+    "conta": 916
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 917,
+    "descBanco": "LINX - HIPERCARD - 2 A 6X",
+    "agencia": 917,
+    "conta": 917
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 918,
+    "descBanco": "LINX - MASTER - 7 A 12X",
+    "agencia": 918,
+    "conta": 918
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 919,
+    "descBanco": "LINX - VISA - 7 A 12X",
+    "agencia": 919,
+    "conta": 919
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 920,
+    "descBanco": "LINX - HIPERCARD - 7 A 12X",
+    "agencia": 920,
+    "conta": 920
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 921,
+    "descBanco": "LINX - ELO DEBITO",
+    "agencia": 921,
+    "conta": 921
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 922,
+    "descBanco": "LINX - ELO CREDITO",
+    "agencia": 922,
+    "conta": 922
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 923,
+    "descBanco": "LINX - ELO - 2 A 6X",
+    "agencia": 923,
+    "conta": 923
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 924,
+    "descBanco": "LINX - ELO - 7 A 12X",
+    "agencia": 924,
+    "conta": 924
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 925,
+    "descBanco": "LINX - DINERS CREDITO",
+    "agencia": 925,
+    "conta": 925
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 926,
+    "descBanco": "LINX - DINERS - 2 A 6X",
+    "agencia": 926,
+    "conta": 926
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 927,
+    "descBanco": "LINX - DINERS - 7 A 12X",
+    "agencia": 927,
+    "conta": 927
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 928,
+    "descBanco": "LINX - AMEX CREDITO",
+    "agencia": 928,
+    "conta": 928
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 929,
+    "descBanco": "LINX - AMEX - 2 A 6X",
+    "agencia": 929,
+    "conta": 929
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 930,
+    "descBanco": "LINX - AMEX - 7 A 12X",
+    "agencia": 930,
+    "conta": 930
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 931,
+    "descBanco": "CIELO - MASTER DEBITO",
+    "agencia": 931,
+    "conta": 931
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 932,
+    "descBanco": "CIELO - MASTER CREDITO",
+    "agencia": 932,
+    "conta": 932
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 933,
+    "descBanco": "CIELO - MASTER - 2 A 6X",
+    "agencia": 933,
+    "conta": 933
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 934,
+    "descBanco": "CIELO - MASTER - 7 A 12X",
+    "agencia": 934,
+    "conta": 934
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 935,
+    "descBanco": "CIELO - VISA DEBITO",
+    "agencia": 935,
+    "conta": 935
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 936,
+    "descBanco": "CIELO - VISA CREDITO",
+    "agencia": 936,
+    "conta": 936
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 937,
+    "descBanco": "CIELO - VISA - 2 A 6X",
+    "agencia": 937,
+    "conta": 937
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 938,
+    "descBanco": "CIELO - VISA - 7 A 12X",
+    "agencia": 938,
+    "conta": 938
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 939,
+    "descBanco": "CIELO - ELO DEBITO",
+    "agencia": 939,
+    "conta": 939
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 107,
+    "descBanco": "BANCO SANTANDER C/C 130000402",
+    "agencia": 4644,
+    "conta": 130000402
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 111,
+    "descBanco": "BANCO APLIC 111",
+    "agencia": 111,
+    "conta": 111
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 112,
+    "descBanco": "BANCO APLIC 112",
+    "agencia": 112,
+    "conta": 112
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 113,
+    "descBanco": "BANCO APLIC 113",
+    "agencia": 113,
+    "conta": 113
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 114,
+    "descBanco": "BANCO APLIC 114",
+    "agencia": 114,
+    "conta": 114
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 115,
+    "descBanco": "BANCO APLIC 115",
+    "agencia": 115,
+    "conta": 115
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 940,
+    "descBanco": "CIELO - ELO CREDITO",
+    "agencia": 940,
+    "conta": 940
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 941,
+    "descBanco": "CIELO - ELO - 2 A 6X",
+    "agencia": 941,
+    "conta": 941
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 942,
+    "descBanco": "CIELO - ELO - 7 A 12X",
+    "agencia": 942,
+    "conta": 942
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 943,
+    "descBanco": "CIELO - DINERS CREDITO",
+    "agencia": 943,
+    "conta": 943
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 944,
+    "descBanco": "CIELO - DINERS - 2 A 6X",
+    "agencia": 944,
+    "conta": 944
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 945,
+    "descBanco": "CIELO - DINERS - 7 A 12X",
+    "agencia": 945,
+    "conta": 945
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 946,
+    "descBanco": "CIELO - AMEX CREDITO",
+    "agencia": 946,
+    "conta": 946
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 947,
+    "descBanco": "CIELO - AMEX - 2 A 6X",
+    "agencia": 947,
+    "conta": 947
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 948,
+    "descBanco": "CIELO - AMEX - 7 A 12X",
+    "agencia": 948,
+    "conta": 948
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 949,
+    "descBanco": "CIELO - CREDSYSTEM CREDITO",
+    "agencia": 949,
+    "conta": 949
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 950,
+    "descBanco": "CIELO - CREDSYSTEM - 2 A 6X",
+    "agencia": 950,
+    "conta": 950
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 951,
+    "descBanco": "CIELO - CREDSYSTEM - 7 A 12X",
+    "agencia": 951,
+    "conta": 951
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 952,
+    "descBanco": "CIELO - HIPERCARD CREDITO",
+    "agencia": 952,
+    "conta": 952
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 953,
+    "descBanco": "CIELO - HIPERCARD - 2 A 6X",
+    "agencia": 953,
+    "conta": 953
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 954,
+    "descBanco": "CIELO - HIPERCARD - 7 A 12X",
+    "agencia": 954,
+    "conta": 954
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 101,
+    "descBanco": "BANCO ITAU C/C 04360-9",
+    "agencia": 641,
+    "conta": 4360
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 102,
+    "descBanco": "BANCO ITAU C/C 09534-4",
+    "agencia": 641,
+    "conta": 9534
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 103,
+    "descBanco": "BANCO ITAU C/C 01597-1",
+    "agencia": 8576,
+    "conta": 1597
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 104,
+    "descBanco": "*BRADESCO 130003-2 (COBRANÃA)",
+    "agencia": 3380,
+    "conta": 130003
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 105,
+    "descBanco": "*BRADESCO C/C 021-3",
+    "agencia": 3380,
+    "conta": 21
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 106,
+    "descBanco": "BANCO 106",
+    "agencia": 106,
+    "conta": 106
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 107,
+    "descBanco": "BANCO 107",
+    "agencia": 107,
+    "conta": 107
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 111,
+    "descBanco": "BANCO APLIC 111",
+    "agencia": 111,
+    "conta": 111
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 112,
+    "descBanco": "BANCO APLIC 112",
+    "agencia": 112,
+    "conta": 112
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 113,
+    "descBanco": "BANCO APLIC 113",
+    "agencia": 113,
+    "conta": 113
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 114,
+    "descBanco": "BANCO APLIC 114",
+    "agencia": 114,
+    "conta": 114
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 115,
+    "descBanco": "BANCO APLIC 115",
+    "agencia": 115,
+    "conta": 115
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 200,
+    "descBanco": "ENCONTRO DE CONTAS",
+    "agencia": 200,
+    "conta": 200
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 800,
+    "descBanco": "MONTADORA VOLKS",
+    "agencia": 800,
+    "conta": 800
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 900,
+    "descBanco": "BANCO CARTEIRA",
+    "agencia": 900,
+    "conta": 900
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 910,
+    "descBanco": "LINX - MASTER DEBITO",
+    "agencia": 910,
+    "conta": 910
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 911,
+    "descBanco": "LINX - VISA DEBITO",
+    "agencia": 911,
+    "conta": 911
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 912,
+    "descBanco": "LINX - MASTER CREDITO",
+    "agencia": 912,
+    "conta": 912
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 913,
+    "descBanco": "LINX - VISA CREDITO",
+    "agencia": 913,
+    "conta": 913
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 914,
+    "descBanco": "LINX - HIPERCARD CREDITO",
+    "agencia": 914,
+    "conta": 914
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 915,
+    "descBanco": "LINX - MASTER - 2 A 6X",
+    "agencia": 915,
+    "conta": 915
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 916,
+    "descBanco": "LINX - VISA - 2 A 6X",
+    "agencia": 916,
+    "conta": 916
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 917,
+    "descBanco": "LINX - HIPERCARD - 2 A 6X",
+    "agencia": 917,
+    "conta": 917
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 918,
+    "descBanco": "LINX - MASTER - 7 A 12X",
+    "agencia": 918,
+    "conta": 918
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 937,
+    "descBanco": "CIELO - VISA - 2 A 6X",
+    "agencia": 937,
+    "conta": 937
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 938,
+    "descBanco": "CIELO - VISA - 7 A 12X",
+    "agencia": 938,
+    "conta": 938
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 939,
+    "descBanco": "CIELO - ELO DEBITO",
+    "agencia": 939,
+    "conta": 939
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 940,
+    "descBanco": "CIELO - ELO CREDITO",
+    "agencia": 940,
+    "conta": 940
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 941,
+    "descBanco": "CIELO - ELO - 2 A 6X",
+    "agencia": 941,
+    "conta": 941
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 942,
+    "descBanco": "CIELO - ELO - 7 A 12X",
+    "agencia": 942,
+    "conta": 942
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 943,
+    "descBanco": "CIELO - DINERS CREDITO",
+    "agencia": 943,
+    "conta": 943
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 944,
+    "descBanco": "CIELO - DINERS - 2 A 6X",
+    "agencia": 944,
+    "conta": 944
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 945,
+    "descBanco": "CIELO - DINERS - 7 A 12X",
+    "agencia": 945,
+    "conta": 945
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 946,
+    "descBanco": "CIELO - AMEX CREDITO",
+    "agencia": 946,
+    "conta": 946
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 947,
+    "descBanco": "CIELO - AMEX - 2 A 6X",
+    "agencia": 947,
+    "conta": 947
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 948,
+    "descBanco": "CIELO - AMEX - 7 A 12X",
+    "agencia": 948,
+    "conta": 948
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 949,
+    "descBanco": "CIELO - CREDSYSTEM CREDITO",
+    "agencia": 949,
+    "conta": 949
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 950,
+    "descBanco": "CIELO - CREDSYSTEM - 2 A 6X",
+    "agencia": 950,
+    "conta": 950
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 951,
+    "descBanco": "CIELO - CREDSYSTEM - 7 A 12X",
+    "agencia": 951,
+    "conta": 951
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 952,
+    "descBanco": "CIELO - HIPERCARD CREDITO",
+    "agencia": 952,
+    "conta": 952
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 953,
+    "descBanco": "CIELO - HIPERCARD - 2 A 6X",
+    "agencia": 953,
+    "conta": 953
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 954,
+    "descBanco": "CIELO - HIPERCARD - 7 A 12X",
+    "agencia": 954,
+    "conta": 954
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 101,
+    "descBanco": "BANCO ITAU C/C 04360-9",
+    "agencia": 641,
+    "conta": 4360
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 102,
+    "descBanco": "BANCO ITAU C/C 09534-4",
+    "agencia": 641,
+    "conta": 9534
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 103,
+    "descBanco": "BANCO ITAU C/C 01597-1",
+    "agencia": 8576,
+    "conta": 1597
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 104,
+    "descBanco": "*BRADESCO 130003-2 (COBRANÃA)",
+    "agencia": 3380,
+    "conta": 130003
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 105,
+    "descBanco": "BRADESCO C/C 021-3",
+    "agencia": 3380,
+    "conta": 21
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 106,
+    "descBanco": "BRADESCO C/C 90052-4",
+    "agencia": 3380,
+    "conta": 90052
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 107,
+    "descBanco": "SANTANDER C/C 130000402-4",
+    "agencia": 4644,
+    "conta": 130000402
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 111,
+    "descBanco": "BANCO APLIC 111",
+    "agencia": 111,
+    "conta": 111
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 112,
+    "descBanco": "BANCO APLIC 112",
+    "agencia": 112,
+    "conta": 112
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 113,
+    "descBanco": "BANCO APLIC 113",
+    "agencia": 113,
+    "conta": 113
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 114,
+    "descBanco": "BANCO APLIC 114",
+    "agencia": 114,
+    "conta": 114
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 115,
+    "descBanco": "BANCO APLIC 115",
+    "agencia": 115,
+    "conta": 115
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 200,
+    "descBanco": "ENCONTRO DE CONTAS",
+    "agencia": 200,
+    "conta": 200
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 800,
+    "descBanco": "MONTADORA VOLKS",
+    "agencia": 800,
+    "conta": 800
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 900,
+    "descBanco": "BANCO CARTEIRA",
+    "agencia": 900,
+    "conta": 900
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 910,
+    "descBanco": "LINX - MASTER DEBITO",
+    "agencia": 910,
+    "conta": 910
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 911,
+    "descBanco": "LINX - VISA DEBITO",
+    "agencia": 911,
+    "conta": 911
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 912,
+    "descBanco": "LINX - MASTER CREDITO",
+    "agencia": 912,
+    "conta": 912
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 913,
+    "descBanco": "LINX - VISA CREDITO",
+    "agencia": 913,
+    "conta": 913
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 914,
+    "descBanco": "LINX - HIPERCARD CREDITO",
+    "agencia": 914,
+    "conta": 914
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 915,
+    "descBanco": "LINX - MASTER - 2 A 6X",
+    "agencia": 915,
+    "conta": 915
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 913,
+    "descBanco": "LINX - VISA CREDITO",
+    "agencia": 913,
+    "conta": 913
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 914,
+    "descBanco": "LINX - HIPERCARD CREDITO",
+    "agencia": 914,
+    "conta": 914
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 915,
+    "descBanco": "LINX - MASTER - 2 A 6X",
+    "agencia": 915,
+    "conta": 915
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 916,
+    "descBanco": "LINX - VISA - 2 A 6X",
+    "agencia": 916,
+    "conta": 916
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 917,
+    "descBanco": "LINX - HIPERCARD - 2 A 6X",
+    "agencia": 917,
+    "conta": 917
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 918,
+    "descBanco": "LINX - MASTER - 7 A 12X",
+    "agencia": 918,
+    "conta": 918
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 919,
+    "descBanco": "LINX - VISA - 7 A 12X",
+    "agencia": 919,
+    "conta": 919
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 920,
+    "descBanco": "LINX - HIPERCARD - 7 A 12X",
+    "agencia": 920,
+    "conta": 920
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 921,
+    "descBanco": "LINX - ELO DEBITO",
+    "agencia": 921,
+    "conta": 921
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 922,
+    "descBanco": "LINX - ELO CREDITO",
+    "agencia": 922,
+    "conta": 922
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 923,
+    "descBanco": "LINX - ELO - 2 A 6X",
+    "agencia": 923,
+    "conta": 923
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 924,
+    "descBanco": "LINX - ELO - 7 A 12X",
+    "agencia": 924,
+    "conta": 924
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 925,
+    "descBanco": "LINX - DINERS CREDITO",
+    "agencia": 925,
+    "conta": 925
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 926,
+    "descBanco": "LINX - DINERS - 2 A 6X",
+    "agencia": 926,
+    "conta": 926
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 927,
+    "descBanco": "LINX - DINERS - 7 A 12X",
+    "agencia": 927,
+    "conta": 927
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 928,
+    "descBanco": "LINX - AMEX CREDITO",
+    "agencia": 928,
+    "conta": 928
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 929,
+    "descBanco": "LINX - AMEX - 2 A 6X",
+    "agencia": 929,
+    "conta": 929
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 930,
+    "descBanco": "LINX - AMEX - 7 A 12X",
+    "agencia": 930,
+    "conta": 930
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 931,
+    "descBanco": "CIELO - MASTER DEBITO",
+    "agencia": 931,
+    "conta": 931
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 932,
+    "descBanco": "CIELO - MASTER CREDITO",
+    "agencia": 932,
+    "conta": 932
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 933,
+    "descBanco": "CIELO - MASTER - 2 A 6X",
+    "agencia": 933,
+    "conta": 933
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 934,
+    "descBanco": "CIELO - MASTER - 7 A 12X",
+    "agencia": 934,
+    "conta": 934
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 935,
+    "descBanco": "CIELO - VISA DEBITO",
+    "agencia": 935,
+    "conta": 935
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 936,
+    "descBanco": "CIELO - VISA CREDITO",
+    "agencia": 936,
+    "conta": 936
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 937,
+    "descBanco": "CIELO - VISA - 2 A 6X",
+    "agencia": 937,
+    "conta": 937
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 938,
+    "descBanco": "CIELO - VISA - 7 A 12X",
+    "agencia": 938,
+    "conta": 938
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 939,
+    "descBanco": "CIELO - ELO DEBITO",
+    "agencia": 939,
+    "conta": 939
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 940,
+    "descBanco": "CIELO - ELO CREDITO",
+    "agencia": 940,
+    "conta": 940
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 941,
+    "descBanco": "CIELO - ELO - 2 A 6X",
+    "agencia": 941,
+    "conta": 941
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 942,
+    "descBanco": "CIELO - ELO - 7 A 12X",
+    "agencia": 942,
+    "conta": 942
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 943,
+    "descBanco": "CIELO - DINERS CREDITO",
+    "agencia": 943,
+    "conta": 943
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 944,
+    "descBanco": "CIELO - DINERS - 2 A 6X",
+    "agencia": 944,
+    "conta": 944
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 945,
+    "descBanco": "CIELO - DINERS - 7 A 12X",
+    "agencia": 945,
+    "conta": 945
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 946,
+    "descBanco": "CIELO - AMEX CREDITO",
+    "agencia": 946,
+    "conta": 946
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 947,
+    "descBanco": "CIELO - AMEX - 2 A 6X",
+    "agencia": 947,
+    "conta": 947
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 948,
+    "descBanco": "CIELO - AMEX - 7 A 12X",
+    "agencia": 948,
+    "conta": 948
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 949,
+    "descBanco": "CIELO - CREDSYSTEM CREDITO",
+    "agencia": 949,
+    "conta": 949
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 950,
+    "descBanco": "CIELO - CREDSYSTEM - 2 A 6X",
+    "agencia": 950,
+    "conta": 950
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 951,
+    "descBanco": "CIELO - CREDSYSTEM - 7 A 12X",
+    "agencia": 951,
+    "conta": 951
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 108,
+    "descBanco": "BANCO DO BRASIL C/C 2038-9",
+    "agencia": 3336,
+    "conta": 2038
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 108,
+    "descBanco": "BANCO DO BRASIL C/C 2038-9",
+    "agencia": 3336,
+    "conta": 2038
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 108,
+    "descBanco": "BANCO DO BRASIL C/C 2038-9",
+    "agencia": 3336,
+    "conta": 2038
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 108,
+    "descBanco": "BANCO DO BRASIL C/C 2038-9",
+    "agencia": 3336,
+    "conta": 2038
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 109,
+    "descBanco": "BANCO ITAU C/C 72571-8",
+    "agencia": 641,
+    "conta": 72571
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 110,
+    "descBanco": "BRADESCO C/C 77154-6",
+    "agencia": 3380,
+    "conta": 77154
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 801,
+    "descBanco": "CONTA CORRENTE VW DN - 0957",
+    "agencia": 801,
+    "conta": 801
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 802,
+    "descBanco": "CONTA CORRENTE AUDI DN - 4550",
+    "agencia": 802,
+    "conta": 802
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 803,
+    "descBanco": "CONTA CORRENTE AUDI DN - 4518",
+    "agencia": 803,
+    "conta": 803
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 952,
+    "descBanco": "CIELO - HIPERCARD CREDITO",
+    "agencia": 952,
+    "conta": 952
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 953,
+    "descBanco": "CIELO - HIPERCARD - 2 A 6X",
+    "agencia": 953,
+    "conta": 953
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 954,
+    "descBanco": "CIELO - HIPERCARD - 7 A 12X",
+    "agencia": 954,
+    "conta": 954
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 108,
+    "descBanco": "BANCO DO BRASIL C/C 2038-9",
+    "agencia": 3336,
+    "conta": 2038
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 108,
+    "descBanco": "BANCO DO BRASIL C/C 2038-9",
+    "agencia": 3336,
+    "conta": 2038
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 916,
+    "descBanco": "LINX - VISA - 2 A 6X",
+    "agencia": 916,
+    "conta": 916
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 917,
+    "descBanco": "LINX - HIPERCARD - 2 A 6X",
+    "agencia": 917,
+    "conta": 917
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 918,
+    "descBanco": "LINX - MASTER - 7 A 12X",
+    "agencia": 918,
+    "conta": 918
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 919,
+    "descBanco": "LINX - VISA - 7 A 12X",
+    "agencia": 919,
+    "conta": 919
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 920,
+    "descBanco": "LINX - HIPERCARD - 7 A 12X",
+    "agencia": 920,
+    "conta": 920
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 921,
+    "descBanco": "LINX - ELO DEBITO",
+    "agencia": 921,
+    "conta": 921
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 922,
+    "descBanco": "LINX - ELO CREDITO",
+    "agencia": 922,
+    "conta": 922
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 923,
+    "descBanco": "LINX - ELO - 2 A 6X",
+    "agencia": 923,
+    "conta": 923
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 924,
+    "descBanco": "LINX - ELO - 7 A 12X",
+    "agencia": 924,
+    "conta": 924
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 925,
+    "descBanco": "LINX - DINERS CREDITO",
+    "agencia": 925,
+    "conta": 925
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 926,
+    "descBanco": "LINX - DINERS - 2 A 6X ",
+    "agencia": 926,
+    "conta": 926
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 927,
+    "descBanco": "LINX - DINERS - 7 A 12X",
+    "agencia": 927,
+    "conta": 927
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 928,
+    "descBanco": "LINX - AMEX CREDITO",
+    "agencia": 928,
+    "conta": 928
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 929,
+    "descBanco": "LINX - AMEX - 2 A 6X",
+    "agencia": 929,
+    "conta": 929
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 930,
+    "descBanco": "LINX - AMEX - 7 A 12X",
+    "agencia": 930,
+    "conta": 930
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 931,
+    "descBanco": "CIELO - MASTER DEBITO",
+    "agencia": 931,
+    "conta": 931
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 932,
+    "descBanco": "CIELO - MASTER CREDITO",
+    "agencia": 932,
+    "conta": 932
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 933,
+    "descBanco": "CIELO - MASTER - 2 A 6X",
+    "agencia": 933,
+    "conta": 933
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 934,
+    "descBanco": "CIELO - MASTER - 7 A 12X",
+    "agencia": 934,
+    "conta": 934
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 935,
+    "descBanco": "CIELO - VISA DEBITO",
+    "agencia": 935,
+    "conta": 935
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 936,
+    "descBanco": "CIELO - VISA CREDITO",
+    "agencia": 936,
+    "conta": 936
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 937,
+    "descBanco": "CIELO - VISA - 2 A 6X",
+    "agencia": 937,
+    "conta": 937
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 938,
+    "descBanco": "CIELO - VISA - 7 A 12X",
+    "agencia": 938,
+    "conta": 938
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 939,
+    "descBanco": "CIELO - ELO DEBITO",
+    "agencia": 939,
+    "conta": 939
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 940,
+    "descBanco": "CIELO - ELO CREDITO",
+    "agencia": 940,
+    "conta": 940
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 941,
+    "descBanco": "CIELO - ELO - 2 A 6X",
+    "agencia": 941,
+    "conta": 941
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 942,
+    "descBanco": "CIELO - ELO - 7 A 12X",
+    "agencia": 942,
+    "conta": 942
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 943,
+    "descBanco": "CIELO - DINERS CREDITO",
+    "agencia": 943,
+    "conta": 943
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 944,
+    "descBanco": "CIELO - DINERS - 2 A 6X",
+    "agencia": 944,
+    "conta": 944
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 945,
+    "descBanco": "CIELO - DINERS - 7 A 12X",
+    "agencia": 945,
+    "conta": 945
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 946,
+    "descBanco": "CIELO - AMEX CREDITO",
+    "agencia": 946,
+    "conta": 946
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 947,
+    "descBanco": "CIELO - AMEX - 2 A 6X",
+    "agencia": 947,
+    "conta": 947
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 948,
+    "descBanco": "CIELO - AMEX - 7 A 12X",
+    "agencia": 948,
+    "conta": 948
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 949,
+    "descBanco": "CIELO - CREDSYSTEM CREDITO",
+    "agencia": 949,
+    "conta": 949
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 950,
+    "descBanco": "CIELO - CREDSYSTEM - 2 A 6X",
+    "agencia": 950,
+    "conta": 950
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 951,
+    "descBanco": "CIELO - CREDSYSTEM - 7 A 12X",
+    "agencia": 951,
+    "conta": 951
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 952,
+    "descBanco": "CIELO - HIPERCARD CREDITO",
+    "agencia": 952,
+    "conta": 952
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 953,
+    "descBanco": "CIELO - HIPERCARD - 2 A 6X",
+    "agencia": 953,
+    "conta": 953
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 954,
+    "descBanco": "CIELO - HIPERCARD - 7 A 12X",
+    "agencia": 954,
+    "conta": 954
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 101,
+    "descBanco": "BANCO ITAU C/C 04360-9",
+    "agencia": 641,
+    "conta": 4360
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 102,
+    "descBanco": "BANCO ITAU C/C 09534-4",
+    "agencia": 641,
+    "conta": 9534
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 103,
+    "descBanco": "BANCO ITAU C/C 01597-1",
+    "agencia": 8576,
+    "conta": 597
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 104,
+    "descBanco": "*BRADESCO 130003-2 (COBRANÃA)",
+    "agencia": 3380,
+    "conta": 130003
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 105,
+    "descBanco": "BRADESCO C/C 021-3",
+    "agencia": 3380,
+    "conta": 21
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 106,
+    "descBanco": "BRADESCO C/C 90052-4",
+    "agencia": 3380,
+    "conta": 90052
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 107,
+    "descBanco": "SANTANDER C/C 130000402-4",
+    "agencia": 4644,
+    "conta": 130000402
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 111,
+    "descBanco": "BANCO APLIC 111",
+    "agencia": 111,
+    "conta": 111
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 112,
+    "descBanco": "BANCO APLIC 112",
+    "agencia": 112,
+    "conta": 112
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 113,
+    "descBanco": "BANCO APLIC 113",
+    "agencia": 113,
+    "conta": 113
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 114,
+    "descBanco": "BANCO APLIC 114",
+    "agencia": 114,
+    "conta": 114
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 115,
+    "descBanco": "BANCO APLIC 115",
+    "agencia": 115,
+    "conta": 115
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 200,
+    "descBanco": "ENCONTRO DE CONTAS",
+    "agencia": 200,
+    "conta": 200
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 800,
+    "descBanco": "MONTADORA VOLKS",
+    "agencia": 800,
+    "conta": 800
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 900,
+    "descBanco": "BANCO CARTEIRA",
+    "agencia": 900,
+    "conta": 900
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 910,
+    "descBanco": "LINX - MASTER DEBITO",
+    "agencia": 910,
+    "conta": 910
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 911,
+    "descBanco": "LINX - VISA DEBITO",
+    "agencia": 911,
+    "conta": 911
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 912,
+    "descBanco": "LINX - MASTER CREDITO",
+    "agencia": 912,
+    "conta": 912
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 913,
+    "descBanco": "LINX - VISA CREDITO",
+    "agencia": 913,
+    "conta": 913
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 914,
+    "descBanco": "LINX - HIPERCARD CREDITO",
+    "agencia": 914,
+    "conta": 914
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 915,
+    "descBanco": "LINX - MASTER - 2 A 6X",
+    "agencia": 915,
+    "conta": 915
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 916,
+    "descBanco": "LINX - VISA - 2 A 6X",
+    "agencia": 916,
+    "conta": 916
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 917,
+    "descBanco": "LINX - HIPERCARD - 2 A 6X",
+    "agencia": 917,
+    "conta": 917
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 918,
+    "descBanco": "LINX - MASTER - 7 A 12X",
+    "agencia": 918,
+    "conta": 918
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 919,
+    "descBanco": "LINX - VISA - 7 A 12X",
+    "agencia": 919,
+    "conta": 919
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 920,
+    "descBanco": "LINX - HIPERCARD - 7 A 12X",
+    "agencia": 920,
+    "conta": 920
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 921,
+    "descBanco": "LINX - ELO DEBITO",
+    "agencia": 921,
+    "conta": 921
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 922,
+    "descBanco": "LINX - ELO CREDITO",
+    "agencia": 922,
+    "conta": 922
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 923,
+    "descBanco": "LINX - ELO - 2 A 6X",
+    "agencia": 923,
+    "conta": 923
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 924,
+    "descBanco": "LINX - ELO - 7 A 12X",
+    "agencia": 924,
+    "conta": 924
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 925,
+    "descBanco": "LINX - DINERS CREDITO",
+    "agencia": 925,
+    "conta": 925
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 926,
+    "descBanco": "LINX - DINERS - 2 A 6X",
+    "agencia": 926,
+    "conta": 926
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 927,
+    "descBanco": "LINX - DINERS - 7 A 12X",
+    "agencia": 927,
+    "conta": 927
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 928,
+    "descBanco": "LINX - AMEX CREDITO",
+    "agencia": 928,
+    "conta": 928
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 929,
+    "descBanco": "LINX - AMEX - 2 A 6X",
+    "agencia": 929,
+    "conta": 929
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 930,
+    "descBanco": "LINX - AMEX - 7 A 12X",
+    "agencia": 930,
+    "conta": 930
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 931,
+    "descBanco": "CIELO - MASTER DEBITO",
+    "agencia": 931,
+    "conta": 931
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 932,
+    "descBanco": "CIELO - MASTER CREDITO",
+    "agencia": 932,
+    "conta": 932
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 933,
+    "descBanco": "CIELO - MASTER - 2 A 6X",
+    "agencia": 933,
+    "conta": 933
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 934,
+    "descBanco": "CIELO - MASTER - 7 A 12X",
+    "agencia": 934,
+    "conta": 934
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 935,
+    "descBanco": "CIELO - VISA DEBITO",
+    "agencia": 935,
+    "conta": 935
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 936,
+    "descBanco": "CIELO - VISA CREDITO",
+    "agencia": 936,
+    "conta": 936
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 937,
+    "descBanco": "CIELO - VISA - 2 A 6X",
+    "agencia": 937,
+    "conta": 937
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 938,
+    "descBanco": "CIELO - VISA - 7 A 12X",
+    "agencia": 938,
+    "conta": 938
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 939,
+    "descBanco": "CIELO - ELO DEBITO",
+    "agencia": 939,
+    "conta": 939
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 940,
+    "descBanco": "CIELO - ELO CREDITO",
+    "agencia": 940,
+    "conta": 940
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 941,
+    "descBanco": "CIELO - ELO - 2 A 6X",
+    "agencia": 941,
+    "conta": 941
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 942,
+    "descBanco": "CIELO - ELO - 7 A 12X",
+    "agencia": 942,
+    "conta": 942
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 943,
+    "descBanco": "CIELO - DINERS CREDITO",
+    "agencia": 943,
+    "conta": 943
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 944,
+    "descBanco": "CIELO - DINERS - 2 A 6X",
+    "agencia": 944,
+    "conta": 944
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 945,
+    "descBanco": "CIELO - DINERS - 7 A 12X",
+    "agencia": 945,
+    "conta": 945
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 946,
+    "descBanco": "CIELO - AMEX CREDITO",
+    "agencia": 946,
+    "conta": 946
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 947,
+    "descBanco": "CIELO - AMEX - 2 A 6X",
+    "agencia": 947,
+    "conta": 947
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 948,
+    "descBanco": "CIELO - AMEX - 7 A 12X",
+    "agencia": 948,
+    "conta": 948
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 949,
+    "descBanco": "CIELO - CREDSYSTEM CREDITO",
+    "agencia": 949,
+    "conta": 949
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 950,
+    "descBanco": "CIELO - CREDSYSTEM - 2 A 6X",
+    "agencia": 950,
+    "conta": 950
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 951,
+    "descBanco": "CIELO - CREDSYSTEM - 7 A 12X",
+    "agencia": 951,
+    "conta": 951
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 952,
+    "descBanco": "CIELO - HIPERCARD CREDITO",
+    "agencia": 952,
+    "conta": 952
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 953,
+    "descBanco": "CIELO - HIPERCARD - 2 A 6X",
+    "agencia": 953,
+    "conta": 953
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 954,
+    "descBanco": "CIELO - HIPERCARD - 7 A 12X",
+    "agencia": 954,
+    "conta": 954
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 101,
+    "descBanco": "BANCO ITAU C/C 04360-9",
+    "agencia": 641,
+    "conta": 4360
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 102,
+    "descBanco": "BANCO ITAU C/C 09534-4",
+    "agencia": 641,
+    "conta": 9534
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 103,
+    "descBanco": "BANCO ITAU C/C 01597-1",
+    "agencia": 8576,
+    "conta": 1597
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 104,
+    "descBanco": "*BRADESCO 130003-2 (COBRANÃA)",
+    "agencia": 3380,
+    "conta": 130003
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 105,
+    "descBanco": "BRADESCO C/C 021-3",
+    "agencia": 3380,
+    "conta": 21
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 106,
+    "descBanco": "BRADESCO C/C 90052-4",
+    "agencia": 3380,
+    "conta": 90052
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 107,
+    "descBanco": "SANTANDER C/C 130000402-4",
+    "agencia": 4644,
+    "conta": 130000402
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 111,
+    "descBanco": "BANCO APLIC 111",
+    "agencia": 111,
+    "conta": 111
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 112,
+    "descBanco": "BANCO APLIC 112",
+    "agencia": 112,
+    "conta": 112
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 113,
+    "descBanco": "BANCO APLIC 113",
+    "agencia": 113,
+    "conta": 113
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 114,
+    "descBanco": "BANCO APLIC 114",
+    "agencia": 114,
+    "conta": 114
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 115,
+    "descBanco": "BANCO APLIC 115",
+    "agencia": 115,
+    "conta": 115
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 200,
+    "descBanco": "ENCONTRO DE CONTAS",
+    "agencia": 200,
+    "conta": 200
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 800,
+    "descBanco": "MONTADORA VOLKS",
+    "agencia": 800,
+    "conta": 800
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 900,
+    "descBanco": "BANCO CARTEIRA",
+    "agencia": 900,
+    "conta": 900
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 910,
+    "descBanco": "LINX - MASTER DEBITO",
+    "agencia": 910,
+    "conta": 910
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 911,
+    "descBanco": "LINX - VISA DEBITO",
+    "agencia": 911,
+    "conta": 911
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 912,
+    "descBanco": "LINX - MASTER CREDITO",
+    "agencia": 912,
+    "conta": 912
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 104,
+    "descBanco": "*BRADESCO 130003-2 (COBRANÃA)",
+    "agencia": 3380,
+    "conta": 130003
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 105,
+    "descBanco": "*BRADESCO C/C 021-3",
+    "agencia": 3380,
+    "conta": 21
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 106,
+    "descBanco": "BRADESCO C/C 90052-4",
+    "agencia": 3380,
+    "conta": 90052
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 107,
+    "descBanco": "BANCO SANTANDER C/C 130000402",
+    "agencia": 4644,
+    "conta": 130000402
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 111,
+    "descBanco": "BANCO APLIC 111",
+    "agencia": 111,
+    "conta": 111
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 112,
+    "descBanco": "BANCO APLIC 112",
+    "agencia": 112,
+    "conta": 112
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 113,
+    "descBanco": "BANCO APLIC 113",
+    "agencia": 113,
+    "conta": 113
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 114,
+    "descBanco": "BANCO APLIC 114",
+    "agencia": 114,
+    "conta": 114
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 115,
+    "descBanco": "BANCO APLIC 115",
+    "agencia": 115,
+    "conta": 115
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 200,
+    "descBanco": "ENCONTRO DE CONTAS",
+    "agencia": 200,
+    "conta": 200
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 800,
+    "descBanco": "MONTADORA VOLKS",
+    "agencia": 800,
+    "conta": 800
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 900,
+    "descBanco": "BANCO CARTEIRA",
+    "agencia": 900,
+    "conta": 900
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 910,
+    "descBanco": "LINX - MASTER DEBITO",
+    "agencia": 910,
+    "conta": 910
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 911,
+    "descBanco": "LINX - VISA DEBITO",
+    "agencia": 911,
+    "conta": 911
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 912,
+    "descBanco": "LINX - MASTER CREDITO",
+    "agencia": 912,
+    "conta": 912
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 913,
+    "descBanco": "LINX - VISA CREDITO",
+    "agencia": 913,
+    "conta": 913
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 914,
+    "descBanco": "LINX - HIPERCARD CREDITO",
+    "agencia": 914,
+    "conta": 914
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 915,
+    "descBanco": "LINX - MASTER - 2 A 6X",
+    "agencia": 915,
+    "conta": 915
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 916,
+    "descBanco": "LINX - VISA - 2 A 6X",
+    "agencia": 916,
+    "conta": 916
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 917,
+    "descBanco": "LINX - HIPERCARD - 2 A 6X",
+    "agencia": 917,
+    "conta": 917
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 918,
+    "descBanco": "LINX - MASTER - 7 A 12X",
+    "agencia": 918,
+    "conta": 918
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 919,
+    "descBanco": "LINX - VISA - 7 A 12X",
+    "agencia": 919,
+    "conta": 919
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 920,
+    "descBanco": "LINX - HIPERCARD - 7 A 12X",
+    "agencia": 920,
+    "conta": 920
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 921,
+    "descBanco": "LINX - ELO DEBITO",
+    "agencia": 921,
+    "conta": 921
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 922,
+    "descBanco": "LINX - ELO CREDITO",
+    "agencia": 922,
+    "conta": 922
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 923,
+    "descBanco": "LINX - ELO - 2 A 6X",
+    "agencia": 923,
+    "conta": 923
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 924,
+    "descBanco": "LINX - ELO - 7 A 12X",
+    "agencia": 924,
+    "conta": 924
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 925,
+    "descBanco": "LINX - DINERS CREDITO",
+    "agencia": 925,
+    "conta": 925
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 926,
+    "descBanco": "LINX - DINER - 2 A 6X",
+    "agencia": 926,
+    "conta": 926
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 927,
+    "descBanco": "LINX - DINER - 7 A 12X",
+    "agencia": 927,
+    "conta": 927
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 928,
+    "descBanco": "LINX - AMEX CREDITO",
+    "agencia": 928,
+    "conta": 928
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 929,
+    "descBanco": "LINX - AMEX - 2 A 6X",
+    "agencia": 929,
+    "conta": 929
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 930,
+    "descBanco": "LINX - AMEX - 7 A 12X",
+    "agencia": 930,
+    "conta": 930
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 931,
+    "descBanco": "CIELO - MASTER DEBITO",
+    "agencia": 931,
+    "conta": 931
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 932,
+    "descBanco": "CIELO - MASTER CREDITO",
+    "agencia": 932,
+    "conta": 932
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 933,
+    "descBanco": "CIELO - MASTER - 2 A 6X",
+    "agencia": 933,
+    "conta": 933
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 934,
+    "descBanco": "CIELO - MASTER - 7 A 12X",
+    "agencia": 934,
+    "conta": 934
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 935,
+    "descBanco": "CIELO - VISA DEBITO",
+    "agencia": 935,
+    "conta": 935
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 936,
+    "descBanco": "CIELO - VISA CREDITO",
+    "agencia": 936,
+    "conta": 936
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 955,
+    "descBanco": "PAY HUB LINK PAGAMENTO",
+    "agencia": 955,
+    "conta": 955
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 109,
+    "descBanco": "BANCO ITAU C/C 72571-8",
+    "agencia": 641,
+    "conta": 72571
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 110,
+    "descBanco": "BRADESCO C/C 77154-6",
+    "agencia": 3380,
+    "conta": 77154
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 801,
+    "descBanco": "CONTA CORRENTE VW DN - 0957",
+    "agencia": 801,
+    "conta": 801
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 802,
+    "descBanco": "CONTA CORRENTE AUDI DN - 4550",
+    "agencia": 802,
+    "conta": 802
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 803,
+    "descBanco": "CONTA CORRENTE AUDI DN - 4518",
+    "agencia": 803,
+    "conta": 803
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 955,
+    "descBanco": "PAY HUB LINK PAGAMENTO",
+    "agencia": 955,
+    "conta": 955
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 109,
+    "descBanco": "BANCO ITAU C/C 72571-8",
+    "agencia": 641,
+    "conta": 72571
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 110,
+    "descBanco": "BRADESCO C/C 77154-6",
+    "agencia": 3380,
+    "conta": 77154
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 801,
+    "descBanco": "CONTA CORRENTE VW DN - 0957",
+    "agencia": 801,
+    "conta": 801
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 802,
+    "descBanco": "CONTA CORRENTE AUDI DN - 4550",
+    "agencia": 802,
+    "conta": 802
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 803,
+    "descBanco": "CONTA CORRENTE AUDI DN - 4518",
+    "agencia": 803,
+    "conta": 803
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 108,
+    "descBanco": "BANCO DO BRASIL C/C 2038-9",
+    "agencia": 3336,
+    "conta": 2038
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 955,
+    "descBanco": "PAY HUB LINK PAGAMENTO",
+    "agencia": 955,
+    "conta": 955
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 109,
+    "descBanco": "BANCO ITAU C/C 72571-8",
+    "agencia": 641,
+    "conta": 72571
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 110,
+    "descBanco": "BRADESCO C/C 77154-6",
+    "agencia": 3380,
+    "conta": 77154
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 801,
+    "descBanco": "CONTA CORRENTE VW DN - 0957",
+    "agencia": 801,
+    "conta": 801
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 802,
+    "descBanco": "CONTA CORRENTE AUDI DN - 4550",
+    "agencia": 802,
+    "conta": 802
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 803,
+    "descBanco": "CONTA CORRENTE AUDI DN - 4518",
+    "agencia": 803,
+    "conta": 803
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 955,
+    "descBanco": "PAY HUB LINK PAGAMENTO",
+    "agencia": 955,
+    "conta": 955
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 109,
+    "descBanco": "BANCO ITAU C/C 72571-8",
+    "agencia": 641,
+    "conta": 72571
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 110,
+    "descBanco": "BRADESCO C/C 77154-6",
+    "agencia": 3380,
+    "conta": 77154
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 801,
+    "descBanco": "CONTA CORRENTE VW DN - 0957",
+    "agencia": 801,
+    "conta": 801
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 802,
+    "descBanco": "CONTA CORRENTE AUDI DN - 4550",
+    "agencia": 802,
+    "conta": 802
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 803,
+    "descBanco": "CONTA CORRENTE AUDI DN - 4518",
+    "agencia": 803,
+    "conta": 803
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 955,
+    "descBanco": "PAY HUB LINK PAGAMENTO",
+    "agencia": 955,
+    "conta": 955
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 109,
+    "descBanco": "BANCO ITAU C/C 72571-8",
+    "agencia": 641,
+    "conta": 72571
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 110,
+    "descBanco": "BRADESCO C/C 77154-6",
+    "agencia": 3380,
+    "conta": 77154
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 801,
+    "descBanco": "CONTA CORRENTE VW DN - 0957",
+    "agencia": 801,
+    "conta": 801
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 802,
+    "descBanco": "CONTA CORRENTE AUDI DN - 4550",
+    "agencia": 802,
+    "conta": 802
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 803,
+    "descBanco": "CONTA CORRENTE AUDI DN - 4518",
+    "agencia": 803,
+    "conta": 803
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 955,
+    "descBanco": "PAY HUB LINK PAGAMENTO",
+    "agencia": 955,
+    "conta": 955
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 109,
+    "descBanco": "BANCO ITAU C/C 72571-8",
+    "agencia": 641,
+    "conta": 72571
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 110,
+    "descBanco": "BRADESCO C/C 77154-6",
+    "agencia": 3380,
+    "conta": 77154
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 801,
+    "descBanco": "CONTA CORRENTE VW DN - 0957",
+    "agencia": 801,
+    "conta": 801
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 802,
+    "descBanco": "CONTA CORRENTE AUDI DN - 4550",
+    "agencia": 802,
+    "conta": 802
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 116,
+    "descBanco": "APL DIA ITAU C/C 04360-9",
+    "agencia": 641,
+    "conta": 4360
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 117,
+    "descBanco": "APL DIA SANTANDER C/C 13000402",
+    "agencia": 4644,
+    "conta": 13000402
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 803,
+    "descBanco": "CONTA CORRENTE AUDI DN - 4518",
+    "agencia": 803,
+    "conta": 803
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 955,
+    "descBanco": "PAY HUB LINK PAGAMENTO",
+    "agencia": 955,
+    "conta": 955
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 116,
+    "descBanco": "APL DIA ITAU C/C 04360-9",
+    "agencia": 641,
+    "conta": 4360
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 117,
+    "descBanco": "APL DIA SANTANDER C/C 13000402",
+    "agencia": 4644,
+    "conta": 13000402
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 116,
+    "descBanco": "APL DIA ITAU C/C 04360-9",
+    "agencia": 641,
+    "conta": 4360
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 117,
+    "descBanco": "APL DIA SANTANDER C/C 13000402",
+    "agencia": 4644,
+    "conta": 13000402
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 116,
+    "descBanco": "APL DIA ITAU C/C 04360-9",
+    "agencia": 641,
+    "conta": 4360
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 117,
+    "descBanco": "APL DIA SANTANDER C/C 13000402",
+    "agencia": 4644,
+    "conta": 13000402
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 116,
+    "descBanco": "APL DIA ITAU C/C 04360-9",
+    "agencia": 641,
+    "conta": 4360
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 117,
+    "descBanco": "APL DIA SANTANDER C/C 13000402",
+    "agencia": 4644,
+    "conta": 13000402
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 116,
+    "descBanco": "APL DIA ITAU C/C 04360-9",
+    "agencia": 641,
+    "conta": 4360
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 117,
+    "descBanco": "APL DIA SANTANDER C/C 13000402",
+    "agencia": 4644,
+    "conta": 13000402
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 116,
+    "descBanco": "APL DIA ITAU C/C 04360-9",
+    "agencia": 641,
+    "conta": 4360
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 117,
+    "descBanco": "APL DIA SANTANDER C/C 13000402",
+    "agencia": 4644,
+    "conta": 13000402
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 100,
+    "descBanco": "BANCO NET C/C 100-1",
+    "agencia": 100,
+    "conta": 100
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 3,
+    "codBanco": 100,
+    "descBanco": "BANCO NET C/C 100-1",
+    "agencia": 100,
+    "conta": 100
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 6,
+    "codBanco": 100,
+    "descBanco": "BANCO NET C/C 100-1",
+    "agencia": 100,
+    "conta": 100
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 7,
+    "codBanco": 100,
+    "descBanco": "BANCO NET C/C 100-1",
+    "agencia": 100,
+    "conta": 100
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 100,
+    "descBanco": "BANCO NET C/C 100-1",
+    "agencia": 100,
+    "conta": 100
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 2,
+    "codBanco": 999,
+    "descBanco": "QR LINX",
+    "agencia": 999,
+    "conta": 999
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 4,
+    "codBanco": 100,
+    "descBanco": "BANCO NET C/C 100-1",
+    "agencia": 100,
+    "conta": 100
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 5,
+    "codBanco": 100,
+    "descBanco": "BANCO NET C/C 100-1",
+    "agencia": 100,
+    "conta": 100
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 100,
+    "descBanco": "BANCO NET C/C 100-1",
+    "agencia": 100,
+    "conta": 100
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 108,
+    "descBanco": "BANCO DO BRASIL C/C 2038-9",
+    "agencia": 3336,
+    "conta": 2038
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 101,
+    "descBanco": "BANCO ITAU C/C 04360-9",
+    "agencia": 641,
+    "conta": 4360
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 102,
+    "descBanco": "BANCO ITAU C/C 09534-4",
+    "agencia": 641,
+    "conta": 9534
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 103,
+    "descBanco": "BANCO ITAU C/C 01597-1",
+    "agencia": 8576,
+    "conta": 597
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 104,
+    "descBanco": "*BRADESCO 130003-2 (COBRANÃA)",
+    "agencia": 3380,
+    "conta": 130003
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 105,
+    "descBanco": "BRADESCO C/C 021-3",
+    "agencia": 3380,
+    "conta": 21
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 106,
+    "descBanco": "BRADESCO C/C 90052-4",
+    "agencia": 3380,
+    "conta": 90052
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 107,
+    "descBanco": "SANTANDER C/C 130000402-4",
+    "agencia": 4644,
+    "conta": 130000402
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 111,
+    "descBanco": "BANCO APLIC 111",
+    "agencia": 111,
+    "conta": 111
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 112,
+    "descBanco": "BANCO APLIC 112",
+    "agencia": 112,
+    "conta": 112
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 113,
+    "descBanco": "BANCO APLIC 113",
+    "agencia": 113,
+    "conta": 113
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 114,
+    "descBanco": "BANCO APLIC 114",
+    "agencia": 114,
+    "conta": 114
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 115,
+    "descBanco": "BANCO APLIC 115",
+    "agencia": 115,
+    "conta": 115
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 200,
+    "descBanco": "ENCONTRO DE CONTAS",
+    "agencia": 200,
+    "conta": 200
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 800,
+    "descBanco": "MONTADORA VOLKS",
+    "agencia": 800,
+    "conta": 800
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 900,
+    "descBanco": "BANCO CARTEIRA",
+    "agencia": 900,
+    "conta": 900
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 910,
+    "descBanco": "LINX - MASTER DEBITO",
+    "agencia": 910,
+    "conta": 910
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 911,
+    "descBanco": "LINX - VISA DEBITO",
+    "agencia": 911,
+    "conta": 911
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 912,
+    "descBanco": "LINX - MASTER CREDITO",
+    "agencia": 912,
+    "conta": 912
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 913,
+    "descBanco": "LINX - VISA CREDITO",
+    "agencia": 913,
+    "conta": 913
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 914,
+    "descBanco": "LINX - HIPERCARD CREDITO",
+    "agencia": 914,
+    "conta": 914
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 915,
+    "descBanco": "LINX - MASTER - 2 A 6X",
+    "agencia": 915,
+    "conta": 915
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 916,
+    "descBanco": "LINX - VISA - 2 A 6X",
+    "agencia": 916,
+    "conta": 916
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 917,
+    "descBanco": "LINX - HIPERCARD - 2 A 6X",
+    "agencia": 917,
+    "conta": 917
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 918,
+    "descBanco": "LINX - MASTER - 7 A 12X",
+    "agencia": 918,
+    "conta": 918
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 919,
+    "descBanco": "LINX - VISA - 7 A 12X",
+    "agencia": 919,
+    "conta": 919
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 920,
+    "descBanco": "LINX - HIPERCARD - 7 A 12X",
+    "agencia": 920,
+    "conta": 920
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 921,
+    "descBanco": "LINX - ELO DEBITO",
+    "agencia": 921,
+    "conta": 921
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 922,
+    "descBanco": "LINX - ELO CREDITO",
+    "agencia": 922,
+    "conta": 922
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 923,
+    "descBanco": "LINX - ELO - 2 A 6X",
+    "agencia": 923,
+    "conta": 923
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 924,
+    "descBanco": "LINX - ELO - 7 A 12X",
+    "agencia": 924,
+    "conta": 924
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 925,
+    "descBanco": "LINX - DINERS CREDITO",
+    "agencia": 925,
+    "conta": 925
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 926,
+    "descBanco": "LINX - DINERS - 2 A 6X",
+    "agencia": 926,
+    "conta": 926
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 927,
+    "descBanco": "LINX - DINERS - 7 A 12X",
+    "agencia": 927,
+    "conta": 927
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 928,
+    "descBanco": "LINX - AMEX CREDITO",
+    "agencia": 928,
+    "conta": 928
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 929,
+    "descBanco": "LINX - AMEX - 2 A 6X",
+    "agencia": 929,
+    "conta": 929
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 930,
+    "descBanco": "LINX - AMEX - 7 A 12X",
+    "agencia": 930,
+    "conta": 930
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 931,
+    "descBanco": "CIELO - MASTER DEBITO",
+    "agencia": 931,
+    "conta": 931
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 932,
+    "descBanco": "CIELO - MASTER CREDITO",
+    "agencia": 932,
+    "conta": 932
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 933,
+    "descBanco": "CIELO - MASTER - 2 A 6X",
+    "agencia": 933,
+    "conta": 933
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 934,
+    "descBanco": "CIELO - MASTER - 7 A 12X",
+    "agencia": 934,
+    "conta": 934
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 935,
+    "descBanco": "CIELO - VISA DEBITO",
+    "agencia": 935,
+    "conta": 935
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 936,
+    "descBanco": "CIELO - VISA CREDITO",
+    "agencia": 936,
+    "conta": 936
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 937,
+    "descBanco": "CIELO - VISA - 2 A 6X",
+    "agencia": 937,
+    "conta": 937
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 938,
+    "descBanco": "CIELO - VISA - 7 A 12X",
+    "agencia": 938,
+    "conta": 938
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 939,
+    "descBanco": "CIELO - ELO DEBITO",
+    "agencia": 939,
+    "conta": 939
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 940,
+    "descBanco": "CIELO - ELO CREDITO",
+    "agencia": 940,
+    "conta": 940
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 941,
+    "descBanco": "CIELO - ELO - 2 A 6X",
+    "agencia": 941,
+    "conta": 941
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 942,
+    "descBanco": "CIELO - ELO - 7 A 12X",
+    "agencia": 942,
+    "conta": 942
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 943,
+    "descBanco": "CIELO - DINERS CREDITO",
+    "agencia": 943,
+    "conta": 943
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 944,
+    "descBanco": "CIELO - DINERS - 2 A 6X",
+    "agencia": 944,
+    "conta": 944
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 945,
+    "descBanco": "CIELO - DINERS - 7 A 12X",
+    "agencia": 945,
+    "conta": 945
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 946,
+    "descBanco": "CIELO - AMEX CREDITO",
+    "agencia": 946,
+    "conta": 946
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 947,
+    "descBanco": "CIELO - AMEX - 2 A 6X",
+    "agencia": 947,
+    "conta": 947
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 948,
+    "descBanco": "CIELO - AMEX - 7 A 12X",
+    "agencia": 948,
+    "conta": 948
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 949,
+    "descBanco": "CIELO - CREDSYSTEM CREDITO",
+    "agencia": 949,
+    "conta": 949
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 950,
+    "descBanco": "CIELO - CREDSYSTEM - 2 A 6X",
+    "agencia": 950,
+    "conta": 950
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 951,
+    "descBanco": "CIELO - CREDSYSTEM - 7 A 12X",
+    "agencia": 951,
+    "conta": 951
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 952,
+    "descBanco": "CIELO - HIPERCARD CREDITO",
+    "agencia": 952,
+    "conta": 952
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 953,
+    "descBanco": "CIELO - HIPERCARD - 2 A 6X",
+    "agencia": 953,
+    "conta": 953
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 954,
+    "descBanco": "CIELO - HIPERCARD - 7 A 12X",
+    "agencia": 954,
+    "conta": 954
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 109,
+    "descBanco": "BANCO ITAU C/C 72571-8",
+    "agencia": 641,
+    "conta": 72571
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 110,
+    "descBanco": "BRADESCO C/C 77154-6",
+    "agencia": 3380,
+    "conta": 77154
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 801,
+    "descBanco": "CONTA CORRENTE VW DN - 0957",
+    "agencia": 801,
+    "conta": 801
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 802,
+    "descBanco": "CONTA CORRENTE AUDI DN - 4550",
+    "agencia": 802,
+    "conta": 802
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 803,
+    "descBanco": "CONTA CORRENTE AUDI DN - 4518",
+    "agencia": 803,
+    "conta": 803
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 955,
+    "descBanco": "PAY HUB LINK PAGAMENTO",
+    "agencia": 955,
+    "conta": 955
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 116,
+    "descBanco": "APL DIA ITAU C/C 04360-9",
+    "agencia": 641,
+    "conta": 4360
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 8,
+    "codBanco": 117,
+    "descBanco": "APL DIA SANTANDER C/C 13000402",
+    "agencia": 4644,
+    "conta": 13000402
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 98,
+    "descBanco": "MERCADO PAGO VW 098-1",
+    "agencia": 98,
+    "conta": 98
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 99,
+    "descBanco": "MERCADO PAGO AUDI 099-1",
+    "agencia": 99,
+    "conta": 99
+  },
+  {
+    "codCnp": "E03776",
+    "empresa": 1,
+    "revenda": 1,
+    "codBanco": 999,
+    "descBanco": "QR LINX",
+    "agencia": 999,
+    "conta": 999
+  }
+]

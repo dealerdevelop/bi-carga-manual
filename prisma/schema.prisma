@@ -1,0 +1,37 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id       String @id @default(cuid())
+  email    String @unique
+  password String
+  
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@map("users")
+}
+
+model ContaBancaria {
+  id          Int      @id @default(autoincrement())
+  codCnp      String   @map("cod_cnp")
+  empresa     String
+  revenda     String
+  codBanco    String   @map("cod_banco")
+  descBanco   String   @map("desc_banco")
+  agencia     String
+  conta       String
+  saldoBanco  Decimal  @map("saldo_banco") @db.Decimal(15, 2)
+  ipOrigem    String?  @map("ip_origem")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  @@map("contas_bancarias")
+  @@unique([codCnp, codBanco, agencia, conta])
+}
